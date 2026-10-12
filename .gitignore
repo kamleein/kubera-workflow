@@ -44,3 +44,7 @@ terraform.rc
 # planout
 admin/deploy_key
 admin/deploy_key_gitops
+
+.mise.toml
+mise.toml
+
